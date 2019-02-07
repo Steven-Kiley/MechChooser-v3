@@ -1,0 +1,33 @@
+c:\users\steven.kiley\documents\visual studio 2015\Projects\MChooser\MChooser\bin\Debug\MChooser.exe.config
+c:\users\steven.kiley\documents\visual studio 2015\Projects\MChooser\MChooser\bin\Debug\MChooser.exe
+c:\users\steven.kiley\documents\visual studio 2015\Projects\MChooser\MChooser\bin\Debug\MChooser.pdb
+c:\users\steven.kiley\documents\visual studio 2015\Projects\MChooser\MChooser\obj\Debug\MChooser.csprojResolveAssemblyReference.cache
+c:\users\steven.kiley\documents\visual studio 2015\Projects\MChooser\MChooser\obj\Debug\MChooser.Properties.Resources.resources
+c:\users\steven.kiley\documents\visual studio 2015\Projects\MChooser\MChooser\obj\Debug\MChooser.csproj.GenerateResource.Cache
+c:\users\steven.kiley\documents\visual studio 2015\Projects\MChooser\MChooser\obj\Debug\MChooser.exe
+c:\users\steven.kiley\documents\visual studio 2015\Projects\MChooser\MChooser\obj\Debug\MChooser.pdb
+c:\users\steven.kiley\documents\visual studio 2015\Projects\MChooser\MChooser\bin\Debug\OwnedMechs.xml
+c:\users\steven.kiley\documents\visual studio 2015\Projects\MChooser\MChooser\bin\Debug\App.config
+c:\users\steven.kiley\documents\visual studio 2015\Projects\MChooser\MChooser\obj\Debug\MChooser.AddMechForm.resources
+C:\Users\steven.kiley\Documents\Visual Studio 2015\Projects\MChooser\MChooser\obj\Debug\MChooser.UI.SelectionForm.resources
+C:\Users\steven.kiley\Documents\Visual Studio 2015\Projects\MChooser\MChooser\bin\Debug\MChooser.exe.manifest
+C:\Users\steven.kiley\Documents\Visual Studio 2015\Projects\MChooser\MChooser\bin\Debug\MChooser.application
+C:\Users\steven.kiley\Documents\Visual Studio 2015\Projects\MChooser\MChooser\obj\Debug\MChooser.exe.manifest
+C:\Users\steven.kiley\Documents\Visual Studio 2015\Projects\MChooser\MChooser\obj\Debug\MChooser.application
+B:\Docs\Mech-Chooser-v2-master\Mech-Chooser-v2-master\MChooser\bin\Debug\MChooser.exe.config
+B:\Docs\Mech-Chooser-v2-master\Mech-Chooser-v2-master\MChooser\obj\Debug\MChooser.exe
+B:\Docs\Mech-Chooser-v2-master\Mech-Chooser-v2-master\MChooser\obj\Debug\MChooser.pdb
+B:\Docs\Mech-Chooser-v2-master\Mech-Chooser-v2-master\MChooser\bin\Debug\OwnedMechs.xml
+B:\Docs\Mech-Chooser-v2-master\Mech-Chooser-v2-master\MChooser\bin\Debug\App.config
+B:\Docs\Mech-Chooser-v2-master\Mech-Chooser-v2-master\MChooser\bin\Debug\MChooser.exe.manifest
+B:\Docs\Mech-Chooser-v2-master\Mech-Chooser-v2-master\MChooser\bin\Debug\MChooser.application
+B:\Docs\Mech-Chooser-v2-master\Mech-Chooser-v2-master\MChooser\bin\Debug\MChooser.exe
+B:\Docs\Mech-Chooser-v2-master\Mech-Chooser-v2-master\MChooser\bin\Debug\MChooser.pdb
+B:\Docs\Mech-Chooser-v2-master\Mech-Chooser-v2-master\MChooser\obj\Debug\MChooser.AddMechForm.resources
+B:\Docs\Mech-Chooser-v2-master\Mech-Chooser-v2-master\MChooser\obj\Debug\MChooser.Properties.Resources.resources
+B:\Docs\Mech-Chooser-v2-master\Mech-Chooser-v2-master\MChooser\obj\Debug\MChooser.UI.MechCountForm.resources
+B:\Docs\Mech-Chooser-v2-master\Mech-Chooser-v2-master\MChooser\obj\Debug\MChooser.UI.SelectionForm.resources
+B:\Docs\Mech-Chooser-v2-master\Mech-Chooser-v2-master\MChooser\obj\Debug\MChooser.csproj.GenerateResource.Cache
+B:\Docs\Mech-Chooser-v2-master\Mech-Chooser-v2-master\MChooser\obj\Debug\MChooser.exe.manifest
+B:\Docs\Mech-Chooser-v2-master\Mech-Chooser-v2-master\MChooser\obj\Debug\MChooser.application
+B:\Docs\Mech-Chooser-v2-master\Mech-Chooser-v2-master\MChooser\obj\Debug\MChooser.UI.MoreInformationWindow.resources
